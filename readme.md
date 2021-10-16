@@ -2,6 +2,12 @@
 Name: Laith Hanania <br />
 This repo is a clone of https://github.com/nelaturuk/education_pathways
 
+## Activities 2 - 5
+<img width="1680" alt="Part1" src="https://user-images.githubusercontent.com/50575615/137568655-1c89590c-c47c-41ef-9f60-be97a19675b3.png">
+<img width="1680" alt="Part2" src="https://user-images.githubusercontent.com/50575615/137568660-40ed55b6-cc3d-4ed6-b4e9-2ab2f0119ead.png">
+<img width="1675" alt="Part3" src="https://user-images.githubusercontent.com/50575615/137568663-b617a4fe-2567-4f1a-ad8a-cab70e7e4650.png">
+
+
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
 
