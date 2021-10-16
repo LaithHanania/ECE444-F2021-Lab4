@@ -7,6 +7,8 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways
 <img width="1680" alt="Part2" src="https://user-images.githubusercontent.com/50575615/137568660-40ed55b6-cc3d-4ed6-b4e9-2ab2f0119ead.png">
 <img width="1675" alt="Part3" src="https://user-images.githubusercontent.com/50575615/137568663-b617a4fe-2567-4f1a-ad8a-cab70e7e4650.png">
 
+## Activity 6
+The major difference between the old UI and the new UI that is that the new UI has better separation between elements using borders. The old UI for the results page did not separate between the search and results well, giving the page a disorganized appearance. Furthermore, there were no visible separating columns in the table which made it more difficult to differentiate data points from each other. With the new UI, theres a clear separating between columns which improves the pages readability.
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
